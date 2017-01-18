@@ -1,0 +1,410 @@
+{
+  "Facilities": [
+    {
+      "status": "active",
+      "addresses": [
+        {
+          "city": "Dubai",
+          "country": "AE",
+          "state": "Dubai",
+          "street": "Baniyas Rd - Dubai - United Arab Emirates",
+          "postal": "",
+          "type": "NAVIGATION"
+        }
+      ],
+      "point": [
+        55.3117405,
+        25.2635748
+      ],
+      "reservations": [],
+      "currency": "$",
+      "daily_rate": null,
+      "hrs": [],
+      "ppoly_arr": [
+        "uheyCiarpIfBgC|@wAbA|@`Ax@aB`B_B~AiByA"
+      ],
+      "operator": null,
+      "cost_index": null,
+      "lot_amenities": [],
+      "review_count": 0,
+      "pmt_types": [],
+      "f_id": 212209,
+      "format": "",
+      "ts": 1483679121,
+      "occupancy": [
+        {
+          "occ_index": 1,
+          "occ_full": false,
+          "occ_date": "2017-01-18T19:13:52Z",
+          "occ_pct": 52,
+          "occ_avail": 71
+        }
+      ],
+      "name": "Baniyas Rd(Dubai Creek)",
+      "note": null,
+      "spaces_total": 347,
+      "rates": [],
+      "phones": [],
+      "peps": [],
+      "type": "Non-restricted",
+      "flag_for_street_team": true,
+      "currency_iso": "AED",
+      "tz": "Asia/Dubai",
+      "operator_note": null,
+      "review_score": 0,
+      "distance": 4903,
+      "asset_thumbs": [
+        "https://maps.googleapis.com/maps/api/streetview?size=450x337&location=25.2635748,%2055.3117405&heading=34&pitch=-5&zoom=2&key=AIzaSyBfPJ_0db9Kyrc1aYWR1rdBGNA_aCvbz8Y"
+      ],
+      "assets": [
+        {
+          "medium": "https://maps.googleapis.com/maps/api/streetview?size=450x337&location=25.2635748,%2055.3117405&heading=34&pitch=-5&zoom=2&key=AIzaSyBfPJ_0db9Kyrc1aYWR1rdBGNA_aCvbz8Y",
+          "thumbnail": "https://maps.googleapis.com/maps/api/streetview?size=450x337&location=25.2635748,%2055.3117405&heading=34&pitch=-5&zoom=2&key=AIzaSyBfPJ_0db9Kyrc1aYWR1rdBGNA_aCvbz8Y",
+          "full": "https://maps.googleapis.com/maps/api/streetview?size=640x640&location=25.2635748,%2055.3117405&heading=34&pitch=-5&zoom=2&key=AIzaSyBfPJ_0db9Kyrc1aYWR1rdBGNA_aCvbz8Y",
+          "asset_types": [
+            "Google Streetview",
+            "Entrance"
+          ]
+        }
+      ],
+      "url": "https://www.parkme.com/lot/212209/baniyas-rd-dubai-creek-dubai-united-arab-emirates",
+      "reviews": []
+    },
+    {
+      "status": "active",
+      "addresses": [
+        {
+          "city": "Dubai",
+          "country": "AE",
+          "state": "Dubai",
+          "street": "25.264253, 55.310799",
+          "postal": "",
+          "type": "NAVIGATION"
+        }
+      ],
+      "point": [
+        55.3107842,
+        25.2642404
+      ],
+      "reservations": [],
+      "currency": "$",
+      "daily_rate": null,
+      "hrs": [],
+      "ppoly_arr": [
+        "}peyCwuqpIxAaC\\c@POhA`AcDjDi@g@EO"
+      ],
+      "operator": null,
+      "cost_index": null,
+      "lot_amenities": [],
+      "review_count": 0,
+      "pmt_types": [],
+      "f_id": 212210,
+      "format": "",
+      "ts": 1483683641,
+      "occupancy": null,
+      "name": "Baniyas Rd(17th St - Glasshouse Brasserie)",
+      "note": null,
+      "spaces_total": 95,
+      "rates": [],
+      "phones": [],
+      "peps": [],
+      "type": "Non-restricted",
+      "flag_for_street_team": true,
+      "currency_iso": "AED",
+      "tz": "Asia/Dubai",
+      "operator_note": null,
+      "review_score": 0,
+      "distance": 5016,
+      "asset_thumbs": [
+        "https://maps.googleapis.com/maps/api/streetview?size=450x337&location=25.2642404,%2055.3107842&heading=34&pitch=-5&zoom=2&key=AIzaSyBfPJ_0db9Kyrc1aYWR1rdBGNA_aCvbz8Y"
+      ],
+      "assets": [
+        {
+          "medium": "https://maps.googleapis.com/maps/api/streetview?size=450x337&location=25.2642404,%2055.3107842&heading=34&pitch=-5&zoom=2&key=AIzaSyBfPJ_0db9Kyrc1aYWR1rdBGNA_aCvbz8Y",
+          "thumbnail": "https://maps.googleapis.com/maps/api/streetview?size=450x337&location=25.2642404,%2055.3107842&heading=34&pitch=-5&zoom=2&key=AIzaSyBfPJ_0db9Kyrc1aYWR1rdBGNA_aCvbz8Y",
+          "full": "https://maps.googleapis.com/maps/api/streetview?size=640x640&location=25.2642404,%2055.3107842&heading=34&pitch=-5&zoom=2&key=AIzaSyBfPJ_0db9Kyrc1aYWR1rdBGNA_aCvbz8Y",
+          "asset_types": [
+            "Google Streetview",
+            "Entrance"
+          ]
+        }
+      ],
+      "url": "https://www.parkme.com/lot/212210/baniyas-rd-17th-st-glasshouse-brasserie-dubai-united-arab-emirates",
+      "reviews": []
+    },
+    {
+      "status": "active",
+      "addresses": [
+        {
+          "city": "Dubai",
+          "country": "AE",
+          "state": "Dubai",
+          "street": "25.265934, 55.308542",
+          "postal": "",
+          "type": "NAVIGATION"
+        }
+      ],
+      "point": [
+        55.3086043,
+        25.2658618
+      ],
+      "reservations": [],
+      "currency": "$",
+      "daily_rate": null,
+      "hrs": [],
+      "ppoly_arr": [
+        "oteyColqpI@NeAaAfAwB`BoBt@r@c@t@i@~@mAnB"
+      ],
+      "operator": null,
+      "cost_index": null,
+      "lot_amenities": [],
+      "review_count": 0,
+      "pmt_types": [],
+      "f_id": 212212,
+      "format": "",
+      "ts": 1483679697,
+      "occupancy": null,
+      "name": "Baniyas Rd(Saluja Cruises - Dhow Cruise Creek )",
+      "note": null,
+      "spaces_total": 199,
+      "rates": [],
+      "phones": [],
+      "peps": [],
+      "type": "Non-restricted",
+      "flag_for_street_team": true,
+      "currency_iso": "AED",
+      "tz": "Asia/Dubai",
+      "operator_note": null,
+      "review_score": 0,
+      "distance": 5287,
+      "asset_thumbs": [
+        "https://maps.googleapis.com/maps/api/streetview?size=450x337&location=25.2658618,%2055.3086043&heading=34&pitch=-5&zoom=2&key=AIzaSyBfPJ_0db9Kyrc1aYWR1rdBGNA_aCvbz8Y"
+      ],
+      "assets": [
+        {
+          "medium": "https://maps.googleapis.com/maps/api/streetview?size=450x337&location=25.2658618,%2055.3086043&heading=34&pitch=-5&zoom=2&key=AIzaSyBfPJ_0db9Kyrc1aYWR1rdBGNA_aCvbz8Y",
+          "thumbnail": "https://maps.googleapis.com/maps/api/streetview?size=450x337&location=25.2658618,%2055.3086043&heading=34&pitch=-5&zoom=2&key=AIzaSyBfPJ_0db9Kyrc1aYWR1rdBGNA_aCvbz8Y",
+          "full": "https://maps.googleapis.com/maps/api/streetview?size=640x640&location=25.2658618,%2055.3086043&heading=34&pitch=-5&zoom=2&key=AIzaSyBfPJ_0db9Kyrc1aYWR1rdBGNA_aCvbz8Y",
+          "asset_types": [
+            "Google Streetview",
+            "Entrance"
+          ]
+        }
+      ],
+      "url": "https://www.parkme.com/lot/212212/baniyas-rd-saluja-cruises-dhow-cruise-creek-dubai-united-arab-emirates",
+      "reviews": []
+    },
+    {
+      "status": "active",
+      "addresses": [
+        {
+          "city": "Dubai",
+          "country": "AE",
+          "state": "Dubai",
+          "street": "90 Baniyas Rd",
+          "postal": "",
+          "type": "NAVIGATION"
+        }
+      ],
+      "point": [
+        55.3074424155,
+        25.2664099821
+      ],
+      "reservations": [],
+      "currency": "$",
+      "daily_rate": null,
+      "hrs": [],
+      "ppoly_arr": [
+        "szeyC}`qpIc@dBaBYb@{ARm@Ja@j@wAp@oAlA`A{@dBm@~A"
+      ],
+      "operator": null,
+      "cost_index": null,
+      "lot_amenities": [],
+      "review_count": 0,
+      "pmt_types": [],
+      "f_id": 212267,
+      "format": "",
+      "ts": 1483496059,
+      "occupancy": null,
+      "name": "Baniyas Rd(Emirates NBD atm)",
+      "note": null,
+      "spaces_total": 283,
+      "rates": [],
+      "phones": [],
+      "peps": [],
+      "type": "Non-restricted",
+      "flag_for_street_team": true,
+      "currency_iso": "AED",
+      "tz": "Asia/Dubai",
+      "operator_note": null,
+      "review_score": 0,
+      "distance": 5402,
+      "asset_thumbs": [
+        "https://maps.googleapis.com/maps/api/streetview?size=450x337&location=25.2664099821,%2055.3074424155&heading=34&pitch=-5&zoom=2&key=AIzaSyBfPJ_0db9Kyrc1aYWR1rdBGNA_aCvbz8Y"
+      ],
+      "assets": [
+        {
+          "medium": "https://maps.googleapis.com/maps/api/streetview?size=450x337&location=25.2664099821,%2055.3074424155&heading=34&pitch=-5&zoom=2&key=AIzaSyBfPJ_0db9Kyrc1aYWR1rdBGNA_aCvbz8Y",
+          "thumbnail": "https://maps.googleapis.com/maps/api/streetview?size=450x337&location=25.2664099821,%2055.3074424155&heading=34&pitch=-5&zoom=2&key=AIzaSyBfPJ_0db9Kyrc1aYWR1rdBGNA_aCvbz8Y",
+          "full": "https://maps.googleapis.com/maps/api/streetview?size=640x640&location=25.2664099821,%2055.3074424155&heading=34&pitch=-5&zoom=2&key=AIzaSyBfPJ_0db9Kyrc1aYWR1rdBGNA_aCvbz8Y",
+          "asset_types": [
+            "Google Streetview",
+            "Entrance"
+          ]
+        }
+      ],
+      "url": "https://www.parkme.com/lot/212267/baniyas-rd-emirates-nbd-atm-dubai-united-arab-emirates",
+      "reviews": []
+    },
+    {
+      "status": "active",
+      "addresses": [
+        {
+          "city": "Dubai",
+          "country": "AE",
+          "state": "Dubai",
+          "street": "25.267451, 55.303416",
+          "postal": "",
+          "type": "NAVIGATION"
+        }
+      ],
+      "point": [
+        55.3047131,
+        25.2671502
+      ],
+      "reservations": [],
+      "currency": "$",
+      "daily_rate": null,
+      "hrs": [],
+      "ppoly_arr": [
+        "c_fyC}pppIQfAa@BE}E\\cEzAb@q@tFMz@"
+      ],
+      "operator": null,
+      "cost_index": null,
+      "lot_amenities": [],
+      "review_count": 0,
+      "pmt_types": [],
+      "f_id": 212282,
+      "format": "",
+      "ts": 1483679926,
+      "occupancy": [
+        {
+          "occ_index": 2,
+          "occ_full": false,
+          "occ_date": "2017-01-18T13:52:32Z",
+          "occ_pct": 89,
+          "occ_avail": null
+        }
+      ],
+      "name": "Baniyas Rd(Emirates NBD Branch - Al Jawhara Cruise)",
+      "note": null,
+      "spaces_total": 102,
+      "rates": [],
+      "phones": [],
+      "peps": [],
+      "type": "Non-restricted",
+      "flag_for_street_team": true,
+      "currency_iso": "AED",
+      "tz": "Asia/Dubai",
+      "operator_note": null,
+      "review_score": 0,
+      "distance": 5626,
+      "asset_thumbs": [
+        "https://maps.googleapis.com/maps/api/streetview?size=450x337&location=25.2671502,%2055.3047131&heading=34&pitch=-5&zoom=2&key=AIzaSyBfPJ_0db9Kyrc1aYWR1rdBGNA_aCvbz8Y"
+      ],
+      "assets": [
+        {
+          "medium": "https://maps.googleapis.com/maps/api/streetview?size=450x337&location=25.2671502,%2055.3047131&heading=34&pitch=-5&zoom=2&key=AIzaSyBfPJ_0db9Kyrc1aYWR1rdBGNA_aCvbz8Y",
+          "thumbnail": "https://maps.googleapis.com/maps/api/streetview?size=450x337&location=25.2671502,%2055.3047131&heading=34&pitch=-5&zoom=2&key=AIzaSyBfPJ_0db9Kyrc1aYWR1rdBGNA_aCvbz8Y",
+          "full": "https://maps.googleapis.com/maps/api/streetview?size=640x640&location=25.2671502,%2055.3047131&heading=34&pitch=-5&zoom=2&key=AIzaSyBfPJ_0db9Kyrc1aYWR1rdBGNA_aCvbz8Y",
+          "asset_types": [
+            "Google Streetview",
+            "Entrance"
+          ]
+        }
+      ],
+      "url": "https://www.parkme.com/lot/212282/baniyas-rd-emirates-nbd-branch-al-jawhara-cruise-dubai-united-arab-emirates",
+      "reviews": []
+    },
+    {
+      "status": "active",
+      "addresses": [
+        {
+          "city": "Dubai",
+          "country": "AE",
+          "state": "Dubai",
+          "street": "25.219303, 55.277810",
+          "postal": "",
+          "type": "NAVIGATION"
+        }
+      ],
+      "point": [
+        55.2774981,
+        25.2185131
+      ],
+      "reservations": [],
+      "currency": "$",
+      "daily_rate": null,
+      "hrs": [],
+      "ppoly_arr": [
+        "eo|xCugkpIyDoBn@cAj@gArIzFW|@}E}@"
+      ],
+      "operator": null,
+      "cost_index": null,
+      "lot_amenities": [],
+      "review_count": 0,
+      "pmt_types": [],
+      "f_id": 212208,
+      "format": "",
+      "ts": 1483679824,
+      "occupancy": [
+        {
+          "occ_index": 0,
+          "occ_full": false,
+          "occ_date": "2017-01-18T19:13:50Z",
+          "occ_pct": 0,
+          "occ_avail": 80
+        }
+      ],
+      "name": "308th Rd (Al Zahra Hospital)",
+      "note": null,
+      "spaces_total": 80,
+      "rates": [],
+      "phones": [],
+      "peps": [],
+      "type": "Non-restricted",
+      "flag_for_street_team": true,
+      "currency_iso": "AED",
+      "tz": "Asia/Dubai",
+      "operator_note": null,
+      "review_score": 0,
+      "distance": 6084,
+      "asset_thumbs": [
+        "https://maps.googleapis.com/maps/api/streetview?size=450x337&location=25.2185131,%2055.2774981&heading=34&pitch=-5&zoom=2&key=AIzaSyBfPJ_0db9Kyrc1aYWR1rdBGNA_aCvbz8Y"
+      ],
+      "assets": [
+        {
+          "medium": "https://maps.googleapis.com/maps/api/streetview?size=450x337&location=25.2185131,%2055.2774981&heading=34&pitch=-5&zoom=2&key=AIzaSyBfPJ_0db9Kyrc1aYWR1rdBGNA_aCvbz8Y",
+          "thumbnail": "https://maps.googleapis.com/maps/api/streetview?size=450x337&location=25.2185131,%2055.2774981&heading=34&pitch=-5&zoom=2&key=AIzaSyBfPJ_0db9Kyrc1aYWR1rdBGNA_aCvbz8Y",
+          "full": "https://maps.googleapis.com/maps/api/streetview?size=640x640&location=25.2185131,%2055.2774981&heading=34&pitch=-5&zoom=2&key=AIzaSyBfPJ_0db9Kyrc1aYWR1rdBGNA_aCvbz8Y",
+          "asset_types": [
+            "Google Streetview",
+            "Entrance"
+          ]
+        }
+      ],
+      "url": "https://www.parkme.com/lot/212208/308th-rd-al-zahra-hospital-dubai-united-arab-emirates",
+      "reviews": []
+    }
+  ],
+  "RegionData": {
+    "abbrev": "GST",
+    "tz_name": "Asia/Dubai",
+    "offset": 14400
+  },
+  "FacilityCount": 6,
+  "RateQuery": null,
+  "Notices": [
+    "Copyright 2017 by ParkMe, Inc.  All Rights Reserved. Use Subject to Terms and Conditions."
+  ]
+}
